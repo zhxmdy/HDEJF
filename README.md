@@ -2,4 +2,4 @@
 hybrid decomposition ensemble joint forecasting
 
 
-model comparsion: we thank to https://github.com/TheQuantScientist/LiteFormer
+Model comparsion(e.g., deep learning): Thanks to https://github.com/TheQuantScientist/LiteFormer
