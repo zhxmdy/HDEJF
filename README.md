@@ -15,7 +15,7 @@ hybrid decomposition ensemble joint forecasting
 [Bechmark]: https://github.com/TheQuantScientist/LiteFormer
 [Data]:https://www.gold.org/goldhub/data
 
-#Install
+# Install
 * 🔄 main.ipynb is mian function.
 * 🧠 Benchmark.ipynb is model comparsion.
 * 📊 demo.ipynb is simple demo for HDEJF, but there is no differencing term and feature selection.
