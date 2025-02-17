@@ -14,11 +14,11 @@ Model comparsion(e.g., deep learning): Thanks to https://github.com/TheQuantScie
 | :keyboard: **[Development Status]**           | This software is in its Pre-Alpha stage.                             |
 | [![][Slack Logo] **Community**][Community]    | Join our Slack Workspace for announcements and discussions.          |
 
-[Website]: [https://github.com/zhxmdy/HDEJF]
+[Website]: https://github.com/zhxmdy/HDEJF
 [Blog]: https://datacebo.com/blog
 [Documentation]: https://bit.ly/sdv-docs
-[Repository]: [https://github.com/sdv-dev/CTGAN](https://github.com/zhxmdy/HDEJF)
-[License]: https://github.com/sdv-dev/CTGAN/blob/main/LICENSE
+[Repository]: https://github.com/sdv-dev/CTGAN
+
 [Development Status]: https://pypi.org/search/?c=Development+Status+%3A%3A+2+-+Pre-Alpha
 [Slack Logo]: https://github.com/sdv-dev/SDV/blob/stable/docs/images/slack.png
 [Community]: https://bit.ly/sdv-slack-invite
