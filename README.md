@@ -2,7 +2,7 @@
 hybrid decomposition ensemble joint forecasting
 
 
-Model comparsion(e.g., deep learning): Thanks to https://github.com/TheQuantScientist/LiteFormer
+
 
 
 | Important Introduction                               |                                                                      |
@@ -12,13 +12,13 @@ Model comparsion(e.g., deep learning): Thanks to https://github.com/TheQuantScie
 | :book: **[Documentation]**                    | Quickstarts, User and Development Guides, and API Reference.         |
 | :octocat: **[Repository]**                    | The link to the Github Repository of this library.                   |
 | :keyboard: **[Development Status]**           | This software is in its Pre-Alpha stage.                             |
-| [![][Slack Logo] **Community**][Community]    | Join our Slack Workspace for announcements and discussions.          |
+| [![][Slack Logo] **bechmark**][bechmark]    | Model comparsion(e.g., deep learning).          |
 
 [Website]: https://github.com/zhxmdy/HDEJF
 [Blog]: https://datacebo.com/blog
 [Documentation]: https://bit.ly/sdv-docs
-[Repository]: https://github.com/sdv-dev/CTGAN
+[Repository]: https://github.com/zhxmdy/HDEJF
 
 [Development Status]: https://pypi.org/search/?c=Development+Status+%3A%3A+2+-+Pre-Alpha
 [Slack Logo]: https://github.com/sdv-dev/SDV/blob/stable/docs/images/slack.png
-[Community]: https://bit.ly/sdv-slack-invite
+[bechmark]: https://github.com/TheQuantScientist/LiteFormer
