@@ -2,7 +2,7 @@
 hybrid decomposition ensemble joint forecasting
 
 
-| Important Introduction                               |                                                                      |
+| Important Links                              |                                                                      |
 | --------------------------------------------- | -------------------------------------------------------------------- |
 | :computer: **[Website]**                      | A code for hybrid decomposition ensemble joint forecasting.|
 | :orange_book: **[Data]**                      | Data is collected from WGC.|
